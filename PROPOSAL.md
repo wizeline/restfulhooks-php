@@ -14,7 +14,7 @@ It will help us compose web services to offer simple solutions to complex scenar
 
 ## PHP
 
-This project aims to be a PHP implementation of the pattern. There are already implementations in other languages/web frameworks like Python/Django, RoR, or Sails in Node.
+This project aims to be a PHP implementation of the pattern. There are already implementations in other languages/web frameworks like Python/Django, RoR and Sails or Feathers in Node.
 
 ## Minimum Implementation
 According to the documentation, this is the minimum viable implementation:
