@@ -31,4 +31,4 @@ We use Wordpress as a "Headless CMS" where Articles (Posts) are created. Wheneve
 
 That in turn will trigger **Web hooks** to our Article Enrichment Service, Article Auto-Tagging Service and will also persist the Article  in our JSON Data Store so it's available thru a JSON:API RESTfull API.
 
-<img src="https://cloud.githubusercontent.com/assets/219427/24520585/31b2ff6e-1546-11e7-8888-20900475f786.png" width="100%" />
+<img src="https://cloud.githubusercontent.com/assets/219427/24521072/03cfedf8-1548-11e7-9c99-6f827b1e04eb.png" width="100%" />
