@@ -8,4 +8,4 @@
  
   **NOTE**: Event management should be done thru the RESTful API *but* event dispatching can be done in the way I just described.
  
- - A Backend for the actual RESTful Hooks Web Services. I'm specifically thinking about using [Kraken](https://github.com/kraken-php/framework) or [amp](https://github.com/amphp). These match more closely an event-driven mindest than using Laravel or Phalcon. And they say it is [more performant too](http://kraken-php.com/#sec-performance). We can also easily make a NodeJS implementation just to contrast ;)
+ - A Backend for the actual RESTful Hooks Web Services. I'm specifically thinking about using [Icicle](https://icicle.io) or [amp](https://github.com/amphp). These match more closely an event-driven mindest than using Laravel or Phalcon. And they say it is [more performant too](http://kraken-php.com/#sec-performance). We can also easily make a NodeJS implementation just to contrast ;)
